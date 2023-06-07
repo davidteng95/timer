@@ -9,3 +9,7 @@ for (let time of timeInput) {
       }, time * 1000);
   }
 }
+
+
+//node timer1.js 4 1 6
+//Timer will sound at 1 second, 4 seconds, and 6 seconds
